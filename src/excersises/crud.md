@@ -1,19 +1,4 @@
-# Webpack Starter
-
-This is an example to use firebase and firestore using webpack & typescript.
-
-### Notas:
-Init node modules
-```
-npm install
-```
-
-to build project
-```
-npm run build
-```
-
-## Reference to doc
+# Reference to doc
 
 `const userRef = db.collection('users');`
 
